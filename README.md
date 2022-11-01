@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Acronix98 👋
 
 The Eternity Mod - https://github.com/Acronix98/The-Eternity-Mod
 
