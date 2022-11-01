@@ -14,6 +14,4 @@ Newer - https://github.com/Acronix98/Newer
 
 Ultimate Everything Pack - https://github.com/Acronix98/Ultimate-Everything-Pack
 
-The Basic Mod - https://github.com/Acronix98/The-Basic-Mod
-
-NSML - https://github.com/Acronix98/NSML
+Nintendo Super Mod Loader - https://github.com/Acronix98/NSML
