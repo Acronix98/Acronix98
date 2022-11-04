@@ -2,7 +2,6 @@
 
 
 # Links
-The Acronix98's Mansion: https://github.com/A98-Mansion
 
 Nintendo Super Mod Loader - https://github.com/Acronix98/NSML
 
