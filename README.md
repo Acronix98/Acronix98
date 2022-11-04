@@ -1,7 +1,7 @@
 ### 👋 Hi there, my name is Acronix98. 
 
 
-# Links
+# Projects
 
 Nintendo Super Mod Loader - https://github.com/Acronix98/NSML
 
