@@ -1,9 +1,7 @@
 ### Hi there, my name is Acronix98 👋
 
 ## Projects
-The Acronix98's Mods: https://github.com/A98-Mansion
-
-The Acronix98's Mods: https://github.com/users/Acronix98/projects/1
+The Acronix98's Mansion: https://github.com/A98-Mansion
 
 Nintendo Super Mod Loader - https://github.com/Acronix98/NSML
 
