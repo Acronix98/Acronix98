@@ -1,4 +1,4 @@
-### Hi there, my name is Acronix98 👋
+### 👋 Hi there, my name is Acronix98. 
 
 ## Projects
 The Acronix98's Mansion: https://github.com/A98-Mansion
