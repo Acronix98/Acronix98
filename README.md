@@ -1,5 +1,6 @@
 ### 👋 Hi there, my name is Acronix98. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98)]
 
 # Projects
 
