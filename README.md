@@ -1,8 +1,8 @@
 ### 👋 Hi there, my name is Joey "Acronix98" Calderone. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acronix98&show_icons=true&theme=cobalt&text_bold=true&border_color=#FF0000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acronix98&show_icons=true&theme=cobalt&custom_title=Acronix98&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=7)
 
 # Projects
 
@@ -21,4 +21,3 @@ Beyond - https://github.com/Acronix98/Beyond
 Superstar - https://github.com/Acronix98/Superstar
 
 Newer - https://github.com/Acronix98/Newer
-
