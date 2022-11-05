@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=7&title_color=ff1100&text_color=0018ef&border_color=ff6900&bg_color=000000)
 
-
-
 <a href="https://github.com/Acronix98/NSML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=NSML" />
 </a>
@@ -30,20 +28,3 @@
 <a href="https://github.com/Acronix98/Newer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Newer" />
 </a>
-# Projects
-
-Nintendo Super Mod Loader - https://github.com/Acronix98/NSML
-
-Ultimate Everything Pack - https://github.com/Acronix98/Ultimate-Everything-Pack
-
-The Eternity Mod - https://github.com/Acronix98/The-Eternity-Mod
-
-The Eternity Craft - https://github.com/Acronix98/The-Eternity-Craft
-
-Untamed - https://github.com/Acronix98/Untamed
-
-Beyond - https://github.com/Acronix98/Beyond
-
-Superstar - https://github.com/Acronix98/Superstar
-
-Newer - https://github.com/Acronix98/Newer
