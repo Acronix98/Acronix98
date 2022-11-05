@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Acronix98. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acronix98&show_icons=true&theme=cobalt&custom_title=Acronix98&bg_color=DEG,ff1100)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acronix98&show_icons=true&theme=cobalt&custom_title=Acronix98's GitHub Stats&border_color=ff1100)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=7)
 
