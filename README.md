@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Acronix98. 
+### 👋 Hi there, my name is Joey "Acronix98" Calderone. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acronix98&show_icons=true&theme=cobalt)
 
