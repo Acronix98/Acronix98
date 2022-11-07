@@ -1,9 +1,7 @@
 ### VERSION ###
 
-- Additions -
+~ Additions ~
 
-- Changes -
+~ Changes ~
 
-- Removals -
-
-- Other -
+~ Removals ~
