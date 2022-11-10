@@ -1,17 +1,17 @@
 ### BUILDS ###
 
--NSML: 0.0
+-NSML: 0.0.0.0
 
--Ultimate Everything Pack: 2.0
+-Ultimate Everything Pack: 2.0.0.0
 
--The Eternity Mod: 2.1
+-The Eternity Mod: 2.1.0.5
 
--The Eternity Craft: 0.1
+-The Eternity Craft: 0.0.0.0
 
--Untamed: 0.0
+-Untamed: 0.0.0.0
 
--Beyond: 0.0
+-Beyond: 0.0.0.0
 
--Superstar: 0.0
+-Superstar: 0.0.0.0
 
--Newer: 0.0
+-Newer: 0.0.0.0
