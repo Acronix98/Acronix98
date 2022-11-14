@@ -26,3 +26,6 @@
 <a href="https://github.com/Acronix98/Newer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Newer&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
 </a>
+<a href="https://github.com/Acronix98/Remix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Remix&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
+</a>
