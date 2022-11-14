@@ -14,15 +14,4 @@
 <a href="https://github.com/Acronix98/The-Eternity-Craft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=The-Eternity-Craft&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
 </a>
-<a href="https://github.com/Acronix98/Untamed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Untamed&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
-</a>
-<a href="https://github.com/Acronix98/Beyond">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Beyond&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
-</a>
-<a href="https://github.com/Acronix98/Superstar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Superstar&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
-</a>
-<a href="https://github.com/Acronix98/Newer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Newer&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
-</a>
+
