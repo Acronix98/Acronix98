@@ -2,6 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=10&layout=compact&card_width=755&title_color=ff1100&text_color=0018ef&border_color=ff6900&bg_color=000000&PAT_1)
 
+<a href="https://github.com/Acronix98/Acronix98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=Acronix98&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
+</a>
 <a href="https://github.com/Acronix98/The-Modded-Toolbox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acronix98&repo=The-Modded-Toolbox&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000&PAT_1" />
 </a>
