@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=10&layout=compact&card_width=755&title_color=ff1100&text_color=0018ef&border_color=ff6900&bg_color=000000&PAT_1)
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="Acronix98.contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
