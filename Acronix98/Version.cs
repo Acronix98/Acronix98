@@ -1,4 +1,4 @@
-namespace Acronix98;
+namespace Acronix98.Acronix98;
 
 public class Version
 {
