@@ -1,21 +1,21 @@
 ### INFORMATION ###
 
--The Glitched Attraction:
+-The Glitched Attraction: 1.1.8
 
--The Modded Toolbox:
+-The Modded Toolbox: 0.0.0
 
--Ultimate Everything Pack:
+-Ultimate Everything Pack: 3.0.0
 
--The Eternity Mod:
+-The Eternity Mod: 2.1.9
 
--The Primordial Craft:
+-The Primordial Craft: 1.1.3
 
--Untamed:
+-Untamed: 0.0.0
 
--Beyond:
+-Beyond: 0.0.0
 
--Superstar:
+-Superstar: 0.0.0
 
--Newer:
+-Newer: 0.0.0
 
--Remix: 
+-Remix: 0.0.0
