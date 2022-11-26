@@ -8,14 +8,14 @@
 
 -The Eternity Mod: 2.1.9
 
--The Primordial Craft: 1.1.3
+-The Primordial Craft: 1.1.0
 
--Untamed: 0.0.0
+-Untamed: 1.0.0
 
 -Beyond: 0.0.0
 
--Superstar: 0.0.0
+-Superstar: 1.0.0
 
--Newer: 0.0.0
+-Newer: 1.0.0
 
--Remix: 0.0.0
+-Remix: 1.0.0
