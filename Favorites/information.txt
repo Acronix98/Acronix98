@@ -2,7 +2,7 @@
 
 -The Glitched Attraction: 1.1.8
 
--The Modded Toolbox: 0.0.0
+-The Modded Toolbox: 0.1.1
 
 -Ultimate Everything Pack: 3.0.0
 
