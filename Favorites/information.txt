@@ -1,22 +1,25 @@
 ### INFORMATION ###
 
--The Glitched Attraction: 1.1.8
--The Modded Toolbox: 0.2.4
--Ultimate Everything Pack: 3.0.0
--The Eternity Mod: 2.1.9
--The Primordial Craft: 1.3.1
--Untamed: 1.1.0
--Beyond: 0.0.0
--Superstar: 1.1.5
--Newer: 1.4.4
--Remix: 1.0.1
+Eternity: The New Age - 0.0.0
+The Glitched Attraction - 1.1.8
+The Modded Toolbox - 0.2.4
+Ultimate Everything Pack - 3.0.0
+The Eternity Mod - 2.1.9
+The Primordial Craft - 1.3.1
+Untamed - 1.1.0
+Beyond - 0.0.0
+Superstar - 1.1.5
+Newer - 1.4.4
+Remix - 1.0.1
 
 ### TODO ### 
 
--N/A: Nothing
+N/A - Nothing
 
 ### CREDITS ###
 
--Acronix98
--Acronixia89
--Krux75 
+The Flamez Studios
+PowerLine Studios
+Acronix98
+Acronixia89
+Krux75 
