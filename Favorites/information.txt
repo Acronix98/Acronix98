@@ -4,18 +4,18 @@
 
 -The Modded Toolbox: 0.0.0
 
--Ultimate Everything Pack: 3.0.4
+-Ultimate Everything Pack: 3.0.0
 
 -The Eternity Mod: 2.1.9
 
 -The Primordial Craft: 1.2.3
 
--Untamed: 1.0.7
+-Untamed: 1.0.0
 
 -Beyond: 0.0.0
 
--Superstar: 1.0.1
+-Superstar: 1.0.0
 
--Newer: 1.3.5
+-Newer: 1.0.0
 
 -Remix: 1.0.0
