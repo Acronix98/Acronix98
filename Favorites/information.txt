@@ -1,5 +1,7 @@
 ### INFORMATION ###
 
+
+# Projects #
 Eternity: The New Age - V0.0.0
 The Glitched Attraction - V1.1.8
 The Modded Toolbox - V0.2.4
@@ -12,11 +14,9 @@ Superstar - V1.1.1
 Newer - V1.3.1
 Remix - V1.0.1
 
-### TODO ### 
-
+# Todo # 
 N/A 
 
-### CREDITS ###
-
+# Credits #
 The Flamez Studios
-PowerLine Studios
+The PowerLine Studios
