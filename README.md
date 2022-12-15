@@ -1,6 +1,6 @@
 <p align="center">
 # Acronix98 
-</p>
+    </p>
 
 [![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square)](https://theflamezstudios.net/discord)
     
