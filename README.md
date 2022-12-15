@@ -2,6 +2,7 @@
 ![Contributors](https://img.shields.io/github/contributors/Acronix98/Acronix98?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/Acronix98/Acronix98?style=flat-square)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Acronix98/Acronix98?style=flat-square)
+![Pull Requests](https://img.shields.io/github/issues-pr/Acronix98/Acronix98?color=ff0000)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acronix98&custom_title=Acronix98&show_icons=true&card_width=805&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000)
     
