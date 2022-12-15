@@ -1,4 +1,4 @@
-# Acronix98 [![Build Status](https://travis-ci.org/tModLoader/tModLoader.svg?branch=master)](https://travis-ci.org/tModLoader/tModLoader) [![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square)](https://tmodloader.net/discord)
+# Acronix98 [![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square)](https://tmodloader.net/discord)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acronix98&custom_title=Acronix98&show_icons=true&card_width=805&title_color=ff1100&text_color=0018ef&border_color=ff6900&icon_color=ff6900&bg_color=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=10&layout=compact&card_width=755&title_color=ff1100&text_color=0018ef&border_color=ff6900&bg_color=000000)
