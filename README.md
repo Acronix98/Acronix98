@@ -13,3 +13,4 @@
 </p>
 
 [![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square?color=ff0000)](https://theflamezstudios.net/discord)
+<img alt="Discord" src="https://img.shields.io/discord/103110554649894912.svg&color=0088ff" />
