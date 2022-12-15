@@ -12,4 +12,4 @@
   <img src="https://profile-counter.glitch.me/Acronix98/count.svg" />
 </p>
 
-[![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square)](https://theflamezstudios.net/discord)
+[![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square?color=ff0000)](https://theflamezstudios.net/discord)
