@@ -1,5 +1,5 @@
 ![Discord](https://img.shields.io/discord/103110554649894912.svg?style=flat-square)
-![Contributors](https://https://img.shields.io/github/contributors/Acronix98/Acronix98)
+![Contributors](https://img.shields.io/github/contributors/Acronix98/Acronix98)
 ![Issues](https://img.shields.io/github/issues/Acronix98/Acronix98)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Acronix98/Acronix98)
 
