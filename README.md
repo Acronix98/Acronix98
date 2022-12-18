@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href=#><img src="Favorites/A98Large.png"></a>
+<a href=#><img src="Favorites/TFSLogo.png"></a>
 </p>
 
 ![Tests Passing](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg?color=33ff6f)
