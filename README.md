@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href=#><img src="Favorites/TFSLogo.png"></a>
+<a href=#><img src="Favorites/Images/TFSLogo.png"></a>
 </p>
 
 ![Tests Passing](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg?color=33ff6f)
@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acronix98&langs_count=10&layout=compact&card_width=755&title_color=ff1100&text_color=0018ef&border_color=ff6900&bg_color=000000)
 
 <p align="center"> 
-<a href=#><img src="Favorites/contributions.svg"></a>
+<a href=#><img src="Favorites/Text/contributions.svg"></a>
 </p>
 
 <p align="center"> 
