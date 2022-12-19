@@ -1,9 +1,10 @@
 <p align="center"> 
 <a href=#><img src="Favorites/Images/TFSLogo.png"></a>
 </p>
-#
 
+<p align="center">
 ![Tests Passing](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg?color=33ff6f)
+</a>
 ![Discord](https://img.shields.io/discord/103110554649894912.svg?color=ff1100)
 ![Contributors](https://img.shields.io/github/contributors/Acronix98/Acronix98?color=0018ef)
 ![Issues](https://img.shields.io/github/issues/Acronix98/Acronix98?color=ff6900)
