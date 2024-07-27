@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acronix98&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acronix98&show_icons=true&theme=rainbowgradient)
 
 <p align="center"> 
   Visitor count<br>
